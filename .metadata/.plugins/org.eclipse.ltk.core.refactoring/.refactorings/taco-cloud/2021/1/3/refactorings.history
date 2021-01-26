@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;taco-cloud/src/main/resources/templates/orderform.html&apos; to &apos;orderForm.html&apos;" description="Rename resource &apos;orderform.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/templates/orderform.html" name="orderForm.html" stamp="1610529985512" updateReferences="true"/>
+</session>
