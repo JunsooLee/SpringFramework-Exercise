@@ -2603,3 +2603,303 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.ui 2 2 2021-02-21 15:13:01.744
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2021-03-10 13:58:20.069 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-03-10 13:58:30.353
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-03-10 13:58:30.353
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@43ca96a0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7c68a63c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.lsp4e 1 0 2021-03-10 13:58:38.156
+!MESSAGE [Info]	Angular language server process ID: 8128
+
+!ENTRY org.eclipse.lsp4e 1 0 2021-03-10 13:58:38.157
+!MESSAGE [Info]	Using @angular/language-service v10.2.2 from C:\Users\junso\.p2\pool\plugins\org.eclipse.wildwebdeveloper_0.5.13.202012011111\node_modules\@angular\language-service\bundles\language-service.js
+
+!ENTRY org.eclipse.lsp4e 1 0 2021-03-10 13:58:38.157
+!MESSAGE [Info]	Log file: undefined
+
+!ENTRY org.eclipse.lsp4e 1 0 2021-03-10 13:58:38.158
+!MESSAGE [Info]	Using typescript/lib/tsserverlibrary v4.0.5 from C:\Users\junso\.p2\pool\plugins\org.eclipse.wildwebdeveloper_0.5.13.202012011111\node_modules\typescript\lib\tsserverlibrary.js
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-03-10 13:58:42.549
+!MESSAGE [Error]	No config file for c:\Users\junso\eclipse-spring\taco-cloud\src\main\resources\templates\orderForm.html
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-03-10 13:58:43.635
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\junso'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-03-10 22:16:07.394 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-03-10 22:16:17.184
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-03-10 22:16:17.184
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7f8f5d37,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@f9cd1e6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.lsp4e 1 0 2021-03-10 22:16:25.095
+!MESSAGE [Info]	Using @angular/language-service v10.2.2 from C:\Users\junso\.p2\pool\plugins\org.eclipse.wildwebdeveloper_0.5.13.202012011111\node_modules\@angular\language-service\bundles\language-service.js
+
+!ENTRY org.eclipse.lsp4e 1 0 2021-03-10 22:16:25.095
+!MESSAGE [Info]	Log file: undefined
+
+!ENTRY org.eclipse.lsp4e 1 0 2021-03-10 22:16:25.096
+!MESSAGE [Info]	Angular language server process ID: 9920
+
+!ENTRY org.eclipse.lsp4e 1 0 2021-03-10 22:16:25.097
+!MESSAGE [Info]	Using typescript/lib/tsserverlibrary v4.0.5 from C:\Users\junso\.p2\pool\plugins\org.eclipse.wildwebdeveloper_0.5.13.202012011111\node_modules\typescript\lib\tsserverlibrary.js
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-03-10 22:16:28.011
+!MESSAGE [Error]	No config file for c:\Users\junso\eclipse-spring\taco-cloud\src\main\resources\templates\orderForm.html
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-03-10 22:16:28.784
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\junso'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2021-03-10 22:16:46.623
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2021-03-12 14:12:19.431 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-03-12 14:12:27.602
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-03-12 14:12:27.602
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2b506a79,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@48b9773b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.lsp4e 1 0 2021-03-12 14:12:36.410
+!MESSAGE [Info]	Angular language server process ID: 2988
+
+!ENTRY org.eclipse.lsp4e 1 0 2021-03-12 14:12:36.411
+!MESSAGE [Info]	Using typescript/lib/tsserverlibrary v4.0.5 from C:\Users\junso\.p2\pool\plugins\org.eclipse.wildwebdeveloper_0.5.13.202012011111\node_modules\typescript\lib\tsserverlibrary.js
+
+!ENTRY org.eclipse.lsp4e 1 0 2021-03-12 14:12:36.412
+!MESSAGE [Info]	Log file: undefined
+
+!ENTRY org.eclipse.lsp4e 1 0 2021-03-12 14:12:36.413
+!MESSAGE [Info]	Using @angular/language-service v10.2.2 from C:\Users\junso\.p2\pool\plugins\org.eclipse.wildwebdeveloper_0.5.13.202012011111\node_modules\@angular\language-service\bundles\language-service.js
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-03-12 14:12:40.401
+!MESSAGE [Error]	No config file for c:\Users\junso\eclipse-spring\taco-cloud\src\main\resources\templates\orderForm.html
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-03-12 14:12:41.645
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\junso'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 14:13:32.849
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 14:13:32.851
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@3edadb19[org.springframework.tooling.boot.ls:1.24.0.202012131915(id=1334)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 14:13:32.858
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 14:13:32.894
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 14:13:36.309
+!MESSAGE Boot LS startup time from start to initialized: 3441ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 14:13:36.439
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.LvREeKTEisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 14:13:36.442
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 14:13:36.446
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 14:13:36.447
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 14:13:36.448
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 14:13:36.449
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.LvREeKTE => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 14:13:36.488
+!MESSAGE classpath=77 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 14:13:36.503
+!MESSAGE buffering callback sts4.classpath.LvREeKTE taco-cloud false 77
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 14:13:36.503
+!MESSAGE executing callback sts4.classpath.LvREeKTE 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 14:13:36.535
+!MESSAGE executing callback sts4.classpath.LvREeKTE SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2021-03-12 14:13:42.379
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 15:28:21.744
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 15:28:21.771
+!MESSAGE classpath=81 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 15:28:21.789
+!MESSAGE buffering callback sts4.classpath.LvREeKTE taco-cloud false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 15:28:21.789
+!MESSAGE executing callback sts4.classpath.LvREeKTE 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 15:28:21.807
+!MESSAGE executing callback sts4.classpath.LvREeKTE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 15:29:02.508
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 15:29:02.537
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 15:29:02.557
+!MESSAGE buffering callback sts4.classpath.LvREeKTE taco-cloud false 82
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 15:29:02.558
+!MESSAGE executing callback sts4.classpath.LvREeKTE 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 15:29:02.572
+!MESSAGE executing callback sts4.classpath.LvREeKTE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 15:29:05.669
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 15:29:05.694
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 15:29:05.708
+!MESSAGE buffering callback sts4.classpath.LvREeKTE taco-cloud false 82
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 15:29:05.709
+!MESSAGE executing callback sts4.classpath.LvREeKTE 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 15:29:05.719
+!MESSAGE executing callback sts4.classpath.LvREeKTE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 15:29:42.026
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 15:29:42.048
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 15:29:42.066
+!MESSAGE buffering callback sts4.classpath.LvREeKTE taco-cloud false 82
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 15:29:42.067
+!MESSAGE executing callback sts4.classpath.LvREeKTE 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 15:29:42.076
+!MESSAGE executing callback sts4.classpath.LvREeKTE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 15:29:45.341
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 15:29:45.366
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 15:29:45.389
+!MESSAGE buffering callback sts4.classpath.LvREeKTE taco-cloud false 82
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 15:29:45.390
+!MESSAGE executing callback sts4.classpath.LvREeKTE 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 15:29:45.406
+!MESSAGE executing callback sts4.classpath.LvREeKTE SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-03-12 15:29:57.137
+!MESSAGE Timeout waiting for data to generate LS hover
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1950)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2085)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 16:56:09.207
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.LvREeKTE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 16:56:09.209
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.LvREeKTE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 16:56:09.210
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-12 16:56:09.211
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.LvREeKTE => OK
